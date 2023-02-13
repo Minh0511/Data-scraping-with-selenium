@@ -25,7 +25,7 @@ search_bar = WebDriverWait(driver, 5).until(
 )
 
 end = time.time()
-print("Elapsed time since start until perform automation: ", end - start, "seconds")
+print("Shopee Elapsed time since start until perform automation: ", end - start, "seconds")
 search_term = "shopee"
 
 # Enter a search term

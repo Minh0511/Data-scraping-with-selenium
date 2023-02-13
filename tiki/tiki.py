@@ -23,7 +23,7 @@ search_bar = WebDriverWait(driver, 5).until(
 search_term = "tiki"
 
 end = time.time()
-print("Elapsed time since start until perform automation: ", end - start, "seconds")
+print("Tiki Elapsed time since start until perform automation: ", end - start, "seconds")
 
 # Enter a search term
 search_bar.send_keys(search_term)

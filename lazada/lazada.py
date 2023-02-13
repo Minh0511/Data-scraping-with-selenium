@@ -20,7 +20,7 @@ search_bar = WebDriverWait(driver, 1).until(
     EC.element_to_be_clickable((By.XPATH, '//input[@id="q"]'))
 )
 end = time.time()
-print("Elapsed time since start until perform automation: ", end - start, "seconds")
+print("Lazada Elapsed time since start until perform automation: ", end - start, "seconds")
 
 search_term = "lazada"
 
