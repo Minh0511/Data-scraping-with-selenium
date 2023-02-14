@@ -1,7 +1,6 @@
 # SCRAPE SEARCH AUTO SUGGESTIONS WITH SELENIUM
 
-*About
-Scrape auto suggestions from lazada, shopee, tiki with python and selenium*.
+*Scrape auto suggestions from lazada, shopee, tiki with python and selenium*.
 
 ## Pre-requisite
 
